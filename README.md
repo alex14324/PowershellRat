@@ -7,7 +7,7 @@ This RAT will help someone during red team engagements to backdoor any Windows m
 
 <B><I>This project must not be used for illegal purposes or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
 
-Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+Any suggestions or ideas for this tool are welcome - just tweet me on [@Alex_14324](https://twitter.com/Alex_14324)
 
 # RAT Architecture Diagram
 
@@ -68,15 +68,16 @@ pip install pyinstaller
 
 # Questions?
 
-Twitter: https://twitter.com/maniarviral
-LinkedIn: https://au.linkedin.com/in/viralmaniar
+Twitter: https://twitter.com/Alex_14324
+telegram: https://t.me/alex14324
+Github: https://github.com/alex14324
 
 # Contribution & License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</br>
 Want to contribute? Please fork it and hit up with a pull request.
 
-Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+Any suggestions or ideas for this tool are welcome - just tweet me on [@Alex_14324](https://twitter.com/Alex_14324)
 
 # To Do
 - Encrypted exfil over Gmail to defeat SSL inspection
